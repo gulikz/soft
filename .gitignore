@@ -2,3 +2,6 @@ __pycache__/
 .ipynb_checkpoints/
 # notebook run results contain IINs
 out/
+out_demo/
+data/
+pkb_iv_output/
